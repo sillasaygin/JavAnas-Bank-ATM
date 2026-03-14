@@ -1,0 +1,4 @@
+*.class
+accounts.txt
+.idea/
+.vscode/
